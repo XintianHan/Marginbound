@@ -22,4 +22,4 @@ Short Report:
 
 Poster: https://github.com/XintianHan/Marginbound/blob/master/Inference_poster_Saad_Xintian.pdf
 
-Report: https://github.com/XintianHan/Marginbound/blob/master/spectrally_normalized_margin.pdf
+Report: https://github.com/XintianHan/Marginbound/blob/master/spectrally-normalized-margin.pdf
