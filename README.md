@@ -19,3 +19,7 @@ https://arxiv.org/abs/1711.01530
 We compare the four papers above in terms of normalized margin bounds.
 
 Short Report:
+
+Poster: https://github.com/XintianHan/Marginbound/blob/master/Inference_poster_Saad_Xintian.pdf
+
+Report: https://github.com/XintianHan/Marginbound/blob/master/spectrally_normalized_margin.pdf
